@@ -1,44 +1,17 @@
-# TrelloKanban
+# Trello-Clone--React
 
-Trello Kanban Board develop on ReactJs, React Feather, Local Storage and typescript where users can Manage Tasks using Trello Kanban Board.
+This is a dynamic website which allows user to manage tasks using Trello Board as per user's will being a clone / similar to the Trello Kanban Board.
 
-## Demo Video
+Built using ReactJs with React Feather, Local Storage and Typescript.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YU9XJEeLjk4/0.jpg)](https://youtu.be/YU9XJEeLjk4) \
-or\
-https://youtu.be/YU9XJEeLjk4
+Components created are in components folder inside "src" folder.
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/81765508/199950704-631c2058-77df-4f6b-9ef1-f23dc8652e14.png">
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/81765508/199950853-c330d9da-a962-48c1-8d22-583f90b22c2e.png">
+
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/81765508/199950935-419a4334-cf5a-41a1-929b-02cb391cc915.png">
 
 
-## Demo Snapshots
 
-# `Home/Dashboard Page`
 
-![alt text](screenshots/home.png)
-
-# `Task Management`
-
-![alt text](screenshots/task_manager.png)
-
-## Installation and Setup Instructions
-
-Install Node Js on your machine.
-
-Install Pre-req Packages:
-
-`npm install`
-
-To Start App Server:
-
-`npm start`
-
-To Visit App Via Browser:
-
-`http://localhost:3000`
-
-# Future improvements
-
-- API or Database Integration
-- Projects Management
-- Filters and Sorting
-- User Management and Task Assignment
-- Drag and Drop Column Base instead of Card Replace
